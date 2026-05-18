@@ -19,7 +19,7 @@ dashboard/*.twbx
 
 # Internal planning / prep notes kept local only.
 docs/project_plan.md
-docs/recruiter_walkthrough.md
+docs/project_walkthrough.md
 docs/interview_guide.md
 docs/goal_runs/
 docs/skill_sprint/

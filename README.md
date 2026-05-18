@@ -194,7 +194,7 @@ Latest full run:
 - [Data quality report](docs/data_quality_report.md)
 - [Quality diagnosis](docs/quality_diagnosis.md)
 
-## CV Bullets
+## Project Summary
 
 - Built a Python and SQL retail ETL pipeline with YAML data contracts, rejected-row reporting, SQLite warehouse tables, KPI exports, and Streamlit executive dashboard.
 - Added full and incremental load modes with idempotent reruns, pipeline run metadata, row-count observability, data quality scoring, and GitHub Actions CI.

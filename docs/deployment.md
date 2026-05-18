@@ -1,6 +1,6 @@
 # Streamlit Deployment Guide
 
-Use Streamlit Community Cloud to create a public demo link for recruiters.
+Use Streamlit Community Cloud to create a public demo link.
 
 Live demo: https://ahmed-retail-kpi-dashboard.streamlit.app/
 

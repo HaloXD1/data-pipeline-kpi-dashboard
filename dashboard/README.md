@@ -1,6 +1,6 @@
 # Dashboard
 
-Streamlit is the main recruiter dashboard. Tableau and Power BI remain optional secondary versions.
+Streamlit is the main dashboard. Tableau and Power BI remain optional secondary versions.
 
 Use the exported CSV files from:
 
